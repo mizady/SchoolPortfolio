@@ -1,0 +1,15 @@
+## SchoolPortfolio for Lance Cain
+A Portfolio created while I am attending SNHU for software development
+
+# Summary
+In CS 255, We were tasked with creating a website/app to provide clients of DriverPass, with educational materials for drivers license testing, regulations materials, and a reservation system for on-the-road training, as well as a testing system for practicing drivers license testing.
+
+# What was I most comfortable with?
+The part of this system design that I felt most comfortable with would be the technical choices.  This might simply be due to my previous experience in more technical topics.  Understanding the proper languages and frameworks to ensure compatibility and stability to meet the clients needs is a crucial part of design.
+If I were to revise a part of this to a level that I would consider finished, I would likely redo every piece of it.  The Use Case diagram, should have been use case diagrams, I would have split the two activity diagrams into three, one for the authentication system and one for each of the two, however I would have also included more activity diagrams for the rest of the expected features/functionality that we would have in the finished system.  The sequence diagrams would be broken down into the individual tasks as to de-clutter them and to more comprehensively cover the individual tasks.  UML Class diagrams would also contain all parts.
+
+# How did I interpret the user's needs?
+Working in I.T. and other technical fields where there is a gap between the knowledge to build the system and those who need it built, I have found that looking at the different ways a request can be interpreted gives you multiple options that can fulfill the clients needs.  You pick which option best fits all the of requirements you are aware of, and with each interaction between the client and the system, or the design team, you further refine that choice into the system or product that best fulfills the clients needs.  The user’s needs are what the system is specifically being designed to fulfill, so understanding what the customers needs were better allowed us to create a system that would satisfy those needs.
+
+# My approach to design
+I usually approach design from multiple angles, often simultaneously, sometimes with good results.  I take whatever problem I am challenged with and I look at the steps required to solve that problem.  Then I look at ways to automate the process or to simplify or expedite the process via software.  If no software exists to do what I want, I second guess why I am trying to find that software before I eventually decide to write something that will reduce the energy consumption on my part.  I look at the ideas or options at different points as nodes, looking for similar nodes nearby that are also options that fix the same problem or perform the same function then I compare them to see if I found a better option, and if not I make a note of differences in the event I run across that same scenario again.  Number one thing I would implement to design a better system? Collaboration, one person cannot have all the best ideas.
